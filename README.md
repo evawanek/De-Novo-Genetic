@@ -2,7 +2,7 @@
 
 ## This de novo drug molecule generation process incorporates a genetic algorithm (GA) to explore and optimize molecular structures. Genetic algorithms are inspired by the principles of natural selection and evolution and are particularly well-suited for generating diverse and high-quality molecules. Here's how the GA-based approach works:
 
-1. Initialization
+### 1. Initialization
 Population: We start with an initial population of molecular structures. These structures can be randomly generated or selected from a known chemical database.
 2. Evaluation
 Scoring Function: Each molecule in the population is evaluated using a scoring function. This function considers drug-likeness criteria, such as molecular weight, lipophilicity, hydrogen bond donors, hydrogen bond acceptors, and other relevant properties.
